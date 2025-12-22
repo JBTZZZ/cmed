@@ -1,0 +1,15 @@
+name = "cmed"
+
+main = "_worker.js"
+
+compatibility_date = "2025-11-04"
+
+keep_vars = true
+
+
+
+#[[kv_namespaces]]
+
+#binding = "KV"			#KV绑定名默认不可修改
+
+#id = "a35327a83e774dcd985a86d57c532601"				#KV数据库id
