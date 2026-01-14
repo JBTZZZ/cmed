@@ -2,7 +2,7 @@ name = "ikuu"
 
 main = "_worker.js"
 
-compatibility_date = "2026-1-13"
+compatibility_date = "2026-01-13"
 
 keep_vars = true
 
